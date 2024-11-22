@@ -1,0 +1,56 @@
+body
+{
+	background-image:url('img3.jpeg');
+}
+#mymenu
+{
+	background:rgba(255,255,255,0.1);
+	color:white;
+	text-align:right;
+	font-size:20px;
+}
+#mymenu ul li
+{
+	display:inline-block;
+	padding:20px;
+}
+#mymenu ul li:hover
+{
+  background:orange;
+  color:white;
+  }
+  .A
+  {
+	  border-radius:15px;
+  }
+  .B
+  {
+	  font-family:italic
+	 width100px;
+	  height:40px;
+	  border-radius:25px;
+	  color:green;
+	  background:pink;
+	  font-size:20px;
+  }
+  .B:hover
+  {
+	  width:120px;
+	  color:black;
+	  background:white;
+	  box-shadow:15px 15px 15px red;
+  }
+  #mydata
+ {
+	 font-size:25px;
+	 color:blue;
+	 margin-top:100px;
+ }
+ table
+ {
+	 background:rgba(255,255,255,0.1);
+     color:cyan;
+	 box-shadow:15px 15px 15px yellow;
+	 }
+ 
+ 
